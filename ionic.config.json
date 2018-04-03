@@ -1,0 +1,8 @@
+{
+  "name": "live_platform",
+  "app_id": "624e1587",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
